@@ -8,7 +8,7 @@ body:
     label: 确认
     description: 请确认您满足可添加友联的需求
     options:
-      - label: 已了解 https://magma.ink/links/ 中添加站点的需求
+      - label: 已了解 https://caiyifeng.top/ 中添加站点的需求
         required: true
 - type: input
   id: site-name
